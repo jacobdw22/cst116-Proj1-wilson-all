@@ -168,7 +168,7 @@ void dynamicTableMember(vector <vector <string> > data, int headingColor = 15, i
 			if (r == 0)
 			{
 				colorPrint(data[c][r], headingColor, false);
-				r--;
+
 			}
 			else {
 				colorPrint(data[c][r], dataColor, false);
