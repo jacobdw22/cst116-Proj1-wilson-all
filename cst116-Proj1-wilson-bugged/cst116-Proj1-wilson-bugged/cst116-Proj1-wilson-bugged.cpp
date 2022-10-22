@@ -1,6 +1,8 @@
 // cst116-Proj1-wilson-bugged.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //Jacob Wilson, cst116, Project 1, Bugged, jacob.wilson@oit.edu
 
+//For my errors, I adjusted one of my width(15) to a width(5), and I also removed the int for int main()
+
 #include <iostream>
 #include <iomanip>
 
