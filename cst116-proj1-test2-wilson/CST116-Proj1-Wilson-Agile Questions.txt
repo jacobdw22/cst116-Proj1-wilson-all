@@ -1,9 +1,16 @@
 Agile questions 1
--
--
-
+- I am going to start the code and get the simple inputs and outputs working.
+- I know how to send outputs and recieve inputs.
+- I don't know how to use loops to get repeated stored inputs for strings and floats.
+- How should I structure my code on order to have it work as well as be easy to follow?
 
 Agile questions 2
-
+- I am going to add the width and precision statements to the code to make the results print out similar to a table.
+- I know how to use manipulators, but I am more confused on member functions.
 
 Agile questions 3
+- I am going to debug my partner's code and add the rest of the text files that I need to submit.
+- I know how to debug code and how to make pseudo code and other text files.
+- I don't know what is happening in a lot of my partner's code, as it is much more complex anad high level than my code.
+- How should I approach debugging my partner's code?
+- What sort of clues should I look for to see that there is a mistake?
