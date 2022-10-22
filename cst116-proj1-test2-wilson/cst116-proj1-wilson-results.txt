@@ -1,0 +1,39 @@
+-- Results --
+
+What is your first name: Jay
+What is your income to the nearest cent: 1241.412
+What is your gpa  decimal places: 4124.412
+What is your first name: Jacob
+What is your income to the nearest cent: 42.244224
+What is your gpa  decimal places: 123.456
+What is your first name: John
+What is your income to the nearest cent: 5.5555555555
+What is your gpa  decimal places: 3.31
+What is your first name: Joe
+What is your income to the nearest cent: 123456.7
+What is your gpa  decimal places: 1.119
+
+Student #           Name         Income           GPA
+student 1            Jay        1241.41        4124.41
+student 2          Jacob          42.24         123.46
+student 3           John           5.56           3.31
+student 4            Joe      123456.70           1.12
+
+What is your first name: Joe
+What is your income to the nearest cent: 12
+What is your age decimal places: 12
+What is your first name: j
+What is your income to the nearest cent: 1254345.2434
+What is your age  decimal places: 31
+What is your first name: Max
+What is your income to the nearest cent: 123.32222
+What is your age  decimal places: 65
+What is your first name: Paul
+What is your income to the nearest cent: 234.4
+What is your age  decimal places: 15
+
+Student #           Name         Income            age
+student 5            Joe          12.00          12.00
+student 6              j     1254345.25          31.00
+student 7            Max         123.32          65.00
+student 8           Paul         234.40          15.00
