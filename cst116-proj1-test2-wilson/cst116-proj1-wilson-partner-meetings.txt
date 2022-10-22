@@ -1,0 +1,9 @@
+-- Documented Meetings with Partner --
+
+1. Exchanged phone numbers and discord accounts in person during class on the first day of this project.
+
+2. Digitally over discord on Saturday, October 15th around 6pm
+	We discussed issues with manipulators vs member functions and talked about how to use loops in the code.
+
+3. Digitally over discord on Thursday, October 19th around 11pm.
+	We discussed our final concerns with our codse and gave each other tips on how to solve the problems we were having. Also discussed how close we both were to being finished with the assignment.
